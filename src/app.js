@@ -1,3 +1,3 @@
-export const app = (alertService, componentService) => {
+export const app = () => {
     console.log("app started")
 };
